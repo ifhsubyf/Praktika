@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Paper>
+    <Publication>
+        <Title>Daily News</Title>
+        <Type>газета</Type>
+        <Monthly>30</Monthly>
+        <Chars>
+            <Color>нет</Color>
+            <Volume>20 страниц</Volume>
+            <Glossy>нет</Glossy>
+            <SubscriptionIndex>12345</SubscriptionIndex>
+        </Chars>
+    </Publication>
+    <Publication>
+        <Title>Science Journal</Title>
+        <Type>журнал</Type>
+        <Monthly>12</Monthly>
+        <Chars>
+            <Color>да</Color>
+            <Volume>60 страниц</Volume>
+            <Glossy>да</Glossy>
+            <SubscriptionIndex>67890</SubscriptionIndex>
+        </Chars>
+    </Publication>
+    <Publication>
+        <Title>Travel Brochure</Title>
+        <Type>буклет</Type>
+        <Monthly>2</Monthly>
+        <Chars>
+            <Color>да</Color>
+            <Volume>30 страниц</Volume>
+            <Glossy>да</Glossy>
+        </Chars>
+    </Publication>
+</Paper>
